@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Khushruz From TJ. 
+
 
 ![Khushruz's GitHub stats](https://github-readme-stats.vercel.app/api?username=hushruz&hide=contribs,prs)
 
